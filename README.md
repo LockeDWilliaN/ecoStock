@@ -1,0 +1,2 @@
+# ecoStock
+Inventory Management System
