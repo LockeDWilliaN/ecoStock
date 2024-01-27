@@ -1,4 +1,4 @@
 # ecoStock
 Personal project: Inventory Management System
 
-More features and code changes soon
+There will be additional features and updates to the code in the soon.
